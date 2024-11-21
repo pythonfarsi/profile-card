@@ -9,3 +9,8 @@ ___
 
 ## Demo
 [demo page](https://pythonfarsi.github.io/profile-card)
+
+``` python
+def main():
+    pass
+```
